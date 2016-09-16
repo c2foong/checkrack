@@ -1,0 +1,6 @@
+Updates required to these file simultaneously when node/rack changes:
+
+File                         Changes Required
+getinput.bat =============== change ip, change log file path
+cr_folder\checkalltemp.bat = change array, change log file path
+cr_folder\checkrun.bat ===== change array, change log file path
